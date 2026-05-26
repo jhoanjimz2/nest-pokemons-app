@@ -30,7 +30,7 @@ docker-compose up -d
 yarn start:dev
 ```
 
-8. Recoonstruir base de datos con la semilla
+8. Reconstruir base de datos con la semilla
 ```
 http://localhost:3000/api/v1/seed
 ```
